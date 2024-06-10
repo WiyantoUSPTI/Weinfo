@@ -10,7 +10,7 @@
 - **Footer**: A well-designed footer that provides additional information and links related to the website.
 - **Search Box**: A non-functional search box is included in the template, ready to be wired up to your backend services.
 - **Home Page**: A welcoming home page that provides an overview of the services offered.
-- **Services Page**: A dedicated page that outlines the various services provided. Currently, clicking on any service redirects users to a custom error page, indicating that the service is not yet implemented.
+- **Services Page**: A dedicated page that outlines the various services provided. Currently, clicking on any service (except another service) redirects users to a custom error page, indicating that the service is not yet implemented.
 - **About Page**: A page that provides more information about the company or the individual behind the website.
 
 ## Installation
