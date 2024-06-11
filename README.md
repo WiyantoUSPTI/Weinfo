@@ -34,4 +34,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ---
 
-Feel free to modify this README to suit your project's needs. Happy coding! 🚀
+Feel free to use for your project's needs. Happy coding! 🚀
